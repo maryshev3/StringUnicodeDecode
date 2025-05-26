@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringUnicodeDecode", "StringUnicodeDecode\StringUnicodeDecode.csproj", "{858D8794-5251-4AFD-AB98-FBC99E048D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringUnicodeDecode.Test", "StringUnicodeDecode.Test\StringUnicodeDecode.Test.csproj", "{4D6C89C8-B5DE-4CD0-8A12-8A2D8C95BD80}"
+	ProjectSection(ProjectDependencies) = postProject
+		{858D8794-5251-4AFD-AB98-FBC99E048D4F} = {858D8794-5251-4AFD-AB98-FBC99E048D4F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858D8794-5251-4AFD-AB98-FBC99E048D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858D8794-5251-4AFD-AB98-FBC99E048D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858D8794-5251-4AFD-AB98-FBC99E048D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858D8794-5251-4AFD-AB98-FBC99E048D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6C89C8-B5DE-4CD0-8A12-8A2D8C95BD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6C89C8-B5DE-4CD0-8A12-8A2D8C95BD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6C89C8-B5DE-4CD0-8A12-8A2D8C95BD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6C89C8-B5DE-4CD0-8A12-8A2D8C95BD80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
