@@ -9,6 +9,7 @@
         <Description>This library oriented on convert strings (example: "\u0048\u0065\u006c\u006c\u006f\u0020\u0077\u006f\u0072\u006c\u0064\u0021") to readable for human format</Description>
         <RepositoryUrl>https://github.com/maryshev3/StringUnicodeDecode</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
+        <PackageTags>Unicode decoding</PackageTags>
     </PropertyGroup>
 
 </Project>
